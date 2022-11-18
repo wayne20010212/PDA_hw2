@@ -519,10 +519,6 @@ public:
 };
 
 
-
-
-
-
 int main(int argc, char* argv[]){
     ifstream cell(argv[1]);
     ifstream net(argv[2]);
